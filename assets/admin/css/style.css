@@ -1,0 +1,12 @@
+.todo-form{
+    font-size: 18px;
+    padding-top: 130px;
+}
+.todo-form input{
+    background-color: green;
+    padding: 5px;
+}
+.todo-form label{
+    display: block;
+    padding-bottom: 10px;
+}

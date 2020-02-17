@@ -1,0 +1,19 @@
+.todo-list .todo{
+    margin: 10px 0;
+    padding: 10px;
+    background: #f4f4f4;
+}
+
+.todo-list{
+    margin: 0 !important;
+    padding: 10px 0 !important;
+}
+.todo-list .priority-low{
+    color: black;
+}
+.todo-list .priority-normal{
+    color: green;
+}
+.todo-list .priority-high{
+    color: red;
+}
